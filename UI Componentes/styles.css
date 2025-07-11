@@ -4,7 +4,7 @@
   --secondary-color: #6c757d;
   --success-color: #28a745;
  .btn--add {
-  background-color: #f8d808; /* Un verde diferente al de éxito */
+  background-color: #f8d808; 
   color: white;
 }
   --light-color: #f8f9fa;
